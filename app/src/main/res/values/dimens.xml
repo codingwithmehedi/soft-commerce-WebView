@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- dimens.xml in values folder -->
+    <dimen name="activity_action_bar_overlay_margin">?attr/actionBarSize</dimen>
+</resources>
